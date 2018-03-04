@@ -1,1 +1,1 @@
-# Common-Lisp-Stuff
+# Land of Lisp exercises written using SBCL
